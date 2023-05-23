@@ -12,7 +12,7 @@
   <p><a href="font_sample.html">This is a link to the font-sample file</a></p>
   <p><a href="bootstrap-sample.html">This is a link to the bootstrap-sample file</a></p>
 
-  <p><a href="css_demo.html">Reversi Assignment </a></p>
+  <h4><a href="https://reversi-chloe.herokuapp.com/">Reversi Assignment </a></h4>
 
 </body>  
 </html>
